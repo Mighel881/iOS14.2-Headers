@@ -1,2 +1,3 @@
-# Springboard-iOS14
-iOS 14 Beta 1 Springboard headers from iOS Simulator
+# iOS 14.2 Headers
+
+Most iOS 14.2 headers dumped 
